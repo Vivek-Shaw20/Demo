@@ -1,4 +1,4 @@
 # Demo
 My First Git Repo
 <br>
-Author-Vivek
+Author-Vivek Shaw
